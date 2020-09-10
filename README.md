@@ -1,2 +1,2 @@
 # nodehttp
-Simple server to test HTTP requests
+Simple node server to test HTTP requests
