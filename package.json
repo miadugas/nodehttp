@@ -1,0 +1,23 @@
+{
+  "name": "nodehttp",
+  "version": "1.0.0",
+  "description": "http & node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miadugas/nodehttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miadugas/nodehttp/issues"
+  },
+  "homepage": "https://github.com/miadugas/nodehttp#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
